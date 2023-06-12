@@ -1,0 +1,36 @@
+Introduction:
+
+The purpose of this report is to provide a detailed overview of the development process for a custom connector that validates email addresses. 
+The connector will include an operation to check if an email address is valid based on predefined criteria, such as format validation and domain validation. 
+The development will be done using Java modules to implement the necessary validation logic.
+
+Functional Requirements:
+
+Validate the format of an email address, ensuring it adheres to the standard email address format.
+Provide a response indicating whether the email address is valid or invalid based on the predefined criteria.
+
+Implementation:
+The implementation of the email validation connector will involve the following steps:
+4.1 Setting up the Development Environment:
+
+Install Java Development Kit (JDK) and any necessary IDE (Integrated Development Environment) for Java development.
+Set up a project structure for the connector.
+4.2 Connector API Implementation:
+
+Define the RESTful API endpoints for the validation operations.
+Parse and validate the incoming email address requests.
+4.3 Email Validation Logic:
+
+Implement the email format validation logic, ensuring it adheres to the standard format.
+Handle any errors or exceptions that may occur during the validation process.
+4.4 Integration and Testing:
+
+Test the connector by sending various email addresses and validating the results.
+
+Conclusion:
+In conclusion, the development of an email validation connector involves implementing the necessary Java modules to validate email addresses based on predefined criteria. The connector will check the format and domain of the email address and provide a response indicating its validity. By following the outlined architecture and design, and implementing the validation logic, the email validation connector can be successfully developed.
+
+
+
+
+
